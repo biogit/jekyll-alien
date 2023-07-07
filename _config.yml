@@ -2,7 +2,7 @@
 title: Alien Cafe
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Alien CF blog catalogs, compiles, and compares aliens. Because the truth is out there.
+  The menu at Alien Cafe catalogs, compiles, and compares aliens. Because the truth is out there.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
